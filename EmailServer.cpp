@@ -1,10 +1,9 @@
 //  Kyle McIntyre
 //  EmailServer.cpp
-//  12/5/17
 //
 //  EmailServer
 //
-//  Project for creating an email server
+//  Project for creating a local email server
 
 #include <iostream>
 #include <string>
